@@ -12,7 +12,7 @@ namespace Bday
             Console.WriteLine("I want m$n$y monayyy money");
             Console.WriteLine("The latest gaming laptop");
             Console.WriteLine("Sunglasses");
-            Console.WriteLine("A non piece of crap computer.");
+            Console.WriteLine("lit");
             Console.ReadKey();
         }
     }
